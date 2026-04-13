@@ -1,0 +1,2274 @@
+{
+  "type": "FeatureCollection",
+  "attribution": "Based on Sabban (2013), Folklore 124:3. https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Ankou",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "The personification of death; collects souls in a creaking cart.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Apsat",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "Caucasian spirit of birds and fish; protects hunters.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4,
+          42.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Banshee",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "A wailing woman whose cries foretell a death in the family.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26,
+          53.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Barbegazi",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "Alpine mountain men with giant feet used as snowshoes.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87,
+          45.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Barstukas",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "Tiny earth men who live under elder trees and bring grain.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89,
+          55.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Basajaun",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "The Lord of the Forest who taught humans metallurgy.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12,
+          43.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Bean-nighe",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "The Washer at the Ford who cleans bloodied shrouds.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2,
+          56.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Bwbach",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A Welsh brownie that helps with chores but hates dissent.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78,
+          52.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Clurichaun",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A surly, drunken cousin of the leprechaun who raids cellars.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.68,
+          52.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Domovoy",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "The protective spirit of the Slavic household and hearth.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Duergar",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "Malicious, dark-dwelling dwarves of the English hills.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.94,
+          55.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Dwarf",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "Subterranean smiths known for crafting legendary items.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Gnome",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "Earth-dwelling spirits that guard underground treasure.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.07,
+          53.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Haltija",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "A guardian spirit assigned to a person, home, or forest.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26,
+          69.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Kallikantzaros",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "Goblins that surface during the 12 days of Christmas.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.35,
+          40.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Kikimora",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A female house spirit; helpful if clean, chaotic if not.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          60.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Korrigans",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "Beautiful but dangerous fae who dance in stone circles.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0,
+          48.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Leprechaun",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A solitary cobbler who guards a pot of gold at the rainbow.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.18,
+          54.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Leshy",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A forest guardian who can grow as tall as a tree.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.86,
+          52.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Lutin",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A prankish French spirit that tangles hair into elf-locks.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.28,
+          48.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "Aitvaras",
+        "category": "Zoomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A household spirit that looks like a rooster or a fireball.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          55.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "Afanc",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A lake-dwelling beast that causes massive, drowning floods.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61,
+          52.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "Black Shuck",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A spectral black dog with glowing eyes; an omen of death.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45,
+          52.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Càssait-Bheinn",
+        "category": "Zoomorphic",
+        "alignment": "Neutral",
+        "lore": "A giant, elusive bird of the Scottish Highlands.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          56.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "Cirein-cròin",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A sea serpent so large it feeds on seven whales.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3,
+          57.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "Fenrir",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "The monstrous wolf of Norse myth, destined to kill Odin.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31,
+          61.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "Iku-Turso",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A terrifying, multi-tentacled sea monster of the North.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          59.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "Kraken",
+        "category": "Zanmarphic Animals",
+        "alignment": "Neutral",
+        "lore": "A colossal sea beast that creates ship-sinking whirlpools.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          64.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "Lavellan",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A rat-like water creature with highly poisonous skin.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5,
+          57.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "Marool",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A malevolent sea fish with multiple eyes and a finned crest.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          60.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "name": "Nessie",
+        "category": "Zanmarphic Animals",
+        "alignment": "Neutral",
+        "lore": "The long-necked, elusive resident of Loch Ness.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42,
+          57.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "name": "Otso",
+        "category": "Zanmarphic Animals",
+        "alignment": "Benevolent",
+        "lore": "The sacred Spirit of the Bear in Finnish mythology.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0,
+          64.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "name": "Sleipnir",
+        "category": "Zanmarphic Animals",
+        "alignment": "Benevolent",
+        "lore": "Odin’s eight-legged stallion, the fastest of all horses.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0,
+          65.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "name": "Water Horse",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "Predatory horses that lure people into the water to drown.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0,
+          53.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "name": "Wolpertinger",
+        "category": "Zanmarphic Animals",
+        "alignment": "Neutral",
+        "lore": "A small Bavarian hybrid (rabbit with antlers and wings).",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "name": "Centaur",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A creature with the upper body of a human and the body of a horse.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.05,
+          39.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "name": "Satyr",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A forest spirit with the upper body of a man and the legs of a goat.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2,
+          37.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "name": "Minotaur",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "A monster with the head of a bull and the body of a man, kept in a labyrinth.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.16,
+          35.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "name": "Harpy",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "A predatory creature with the head of a woman and the body of a bird.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          37.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "name": "Scylla",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "A sea monster with multiple heads and tentacles emerging from her waist.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.71,
+          38.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "name": "Mermaid",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "An aquatic entity with a human upper body and a fish-like tail.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          46.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "name": "Sirena",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "Similar to a mermaid, often lure sailors with enchanting songs.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76,
+          43.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "name": "Sphinx",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "A creature with the head of a human, body of a lion, and wings.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          38.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "name": "Manticore",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "A beast with a human face, lion body, and a venomous scorpion tail.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.89,
+          29.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "name": "Faun",
+        "category": "Anthropomorphic",
+        "alignment": "Benevolent",
+        "lore": "A peaceful woodland spirit, half-human and half-goat.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.49,
+          41.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "name": "Gorgon",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "Humanoid with snakes for hair; their gaze turns living things to stone.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0,
+          34.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "name": "Ichthyocentaur",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "A sea-being with a human torso, horse forelegs, and a fish tail.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02,
+          37.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "name": "Larnia",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "A female demon who devours children; often depicted as half-serpent.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5,
+          39.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "name": "Nixie",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "Water spirits that appear human but can take on fish-like traits.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46,
+          48.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "name": "Sileni",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "Older, wiser, and often drunken companions of Dionysus.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          38.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "name": "Triton",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "A merman of the deep, often acting as a messenger for the sea gods.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4,
+          36.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "name": "Cynocephaly",
+        "category": "Anthropomorphic",
+        "alignment": "Neutral",
+        "lore": "A race of humans with the heads of dogs, often found in early travelogues.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          45.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "name": "Each-Uisge",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A shapeshifting water spirit that often takes a handsome human form.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7,
+          56.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "name": "Melusine",
+        "category": "Anthropomorphic",
+        "alignment": "Ambivalent",
+        "lore": "A feminine spirit of fresh water, often appearing with a serpent tail.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          46.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "name": "Rusalka",
+        "category": "Anthropomorphic",
+        "alignment": "Malicious",
+        "lore": "A vengeful water spirit that lures men into the water to drown.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "name": "Griffin",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A creature with the body of a lion and the head and wings of an eagle.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "name": "Hippogriff",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "The legendary offspring of a griffin and a mare, with a horse's hindquarters.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          42.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "name": "Chimera",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A fire-breathing hybrid featuring a lion’s head, a goat’s body, and a serpent tail.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45,
+          36.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "name": "Pegasus",
+        "category": "Dragons & Serpentine",
+        "alignment": "Benevolent",
+        "lore": "A divine winged stallion, usually white, born from the blood of Medusa.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.97,
+          38.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "name": "Questing Beast",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A strange beast with a snake's head, leopard's body, and lion's legs.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5,
+          51.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "name": "Catoblepas",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A buffalo-like creature with a heavy head that always hangs down.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "name": "Leucrotta",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A hybrid of a hyena and a stag with a wide mouth reaching to its ears.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "name": "Yale",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "An antelope-like beast with swiveling horns that can move independently.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          52.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "name": "Cockerel",
+        "category": "Dragons & Serpentine",
+        "alignment": "Ambivalent",
+        "lore": "A hybrid bird, often associated with the Basilisk's birth or warding spirits.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "name": "Hippocamp",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A sea-horse with the forequarters of a horse and the tail of a fish.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02,
+          37.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "name": "Sea-Goat",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A creature with the upper body of a goat and the tail of a fish.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          35.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "name": "Ophiotaurus",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A hybrid with the front half of a bull and the tail of a serpent.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          38.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "name": "Musimon",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A hybrid of a goat and a sheep, possessing the horns of both.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          40.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "name": "Monoceros",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A stag-headed creature with a horse's body and a single spiral horn.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0,
+          20.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "name": "Bonnacon",
+        "category": "Dragons & Serpentine",
+        "alignment": "Neutral",
+        "lore": "A bull-like creature with inward-curving horns that defends itself with caustic dung.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0,
+          41.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "name": "Lindworm",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A wingless, bipedal dragon with a long serpentine body.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0,
+          56.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "name": "Tarasque",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A six-legged beast with a lion's head, turtle's shell, and bear claws.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65,
+          43.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "name": "Vouivre",
+        "category": "Dragons & Serpentine",
+        "alignment": "Ambivalent",
+        "lore": "A winged serpent or wyvern with a large ruby set into its forehead.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9,
+          46.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "name": "Culebre",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A giant winged serpent that guards treasures in caves.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.83,
+          43.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "name": "Balaur",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A multi-headed dragon of enormous size that can control the weather.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.35,
+          47.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "name": "Hydra",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A swamp-dwelling water serpent that regrows two heads for every one lost.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72,
+          37.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "name": "Zmey",
+        "category": "Dragons & Serpentine",
+        "alignment": "Ambivalent",
+        "lore": "A Slavic dragon that can be benevolent protectors of crops or malicious.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46,
+          44.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "name": "Guivre",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A venomous serpentine dragon that lacks wings and legs.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "name": "Knucker",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A water dragon that lives in deep knuckerholes in the English countryside.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55,
+          50.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "name": "Lambton Worm",
+        "category": "Dragons & Serpentine",
+        "alignment": "Malicious",
+        "lore": "A giant, legless serpent that coiled around a hill and terrorized a village.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52,
+          54.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "name": "Peluda",
+        "category": "Dragons",
+        "alignment": "Malicious",
+        "lore": "A green, porcupine-like dragon that shoots poisonous quills.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.65,
+          48.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "name": "Pukis",
+        "category": "Dragons",
+        "alignment": "Ambivalent",
+        "lore": "A multi-headed household dragon that brings wealth to its owner.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          56.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "name": "Aitvaras (Serpent)",
+        "category": "Dragons",
+        "alignment": "Ambivalent",
+        "lore": "A household spirit that appears as a fiery serpent in the sky.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          55.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "name": "Chuvash Dragon",
+        "category": "Dragons",
+        "alignment": "Malicious",
+        "lore": "A shapeshifting dragon that can take human form to lure victims.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0,
+          55.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "name": "Ladōn",
+        "category": "Dragons",
+        "alignment": "Neutral",
+        "lore": "A hundred-headed serpent that guarded the Golden Apples.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0,
+          31.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "name": "Python",
+        "category": "Dragons",
+        "alignment": "Malicious",
+        "lore": "The earth-dragon of Delphi, slain by the god Apollo.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5,
+          38.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "name": "Bolsh",
+        "category": "Dragons",
+        "alignment": "Malicious",
+        "lore": "A massive, destructive serpent from Balkan folklore.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6,
+          40.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "name": "Dragonet",
+        "category": "Dragons",
+        "alignment": "Ambivalent",
+        "lore": "A smaller, often venomous species of regional dragon.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          45.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "name": "Drakon",
+        "category": "Dragons",
+        "alignment": "Neutral",
+        "lore": "A giant, sharp-sighted serpent or dragon of Greek myth.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0,
+          38.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "name": "Fire-Drake",
+        "category": "Dragons",
+        "alignment": "Malicious",
+        "lore": "A classic fire-breathing dragon inhabiting caves and hoarding gold.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          51.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "name": "Wulver",
+        "category": "Zanmarphic Animals",
+        "alignment": "Benevolent",
+        "lore": "A wolf-headed man who leaves fish on the windowsills of the poor.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2,
+          60.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "name": "Cu Sith",
+        "category": "Zanmarphic Animals",
+        "alignment": "Ambivalent",
+        "lore": "A giant green hound that silences its victims with three barks.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          56.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "name": "Cadejo",
+        "category": "Zanmarphic Animals",
+        "alignment": "Ambivalent",
+        "lore": "A spectral dog that can be either a protector or a curse.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          36.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "name": "Barghest",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A demonic black dog with huge teeth and claws.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08,
+          53.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "name": "Gallytrot",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A white, shadowy dog that chases travelers at night.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.29,
+          52.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "name": "Moddey Dhoo",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A spectral black spaniel that haunts Peel Castle.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.69,
+          54.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "name": "Skvader",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A Swedish hybrid with the forequarters of a hare and the back of a wood grouse.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3,
+          62.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "name": "Jackalope",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A hare with deer antlers; while famously American, it has roots in European horned hare lore.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "name": "Karkinos",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A giant crab that assisted the Hydra in its battle against Heracles.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72,
+          37.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "name": "Caladrius",
+        "category": "Spirits",
+        "alignment": "Benevolent",
+        "lore": "A snow-white bird that can predict if a sick person will recover by looking at them.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45,
+          41.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "name": "Stymphalian Bird",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "Man-eating birds with metallic feathers and sharp brass beaks.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.45,
+          37.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "name": "Salamander",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A lizard-like creature able to live in and extinguish fire.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          45.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "name": "Aspidochelone",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A sea monster so large its back is mistaken for an island with trees.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0,
+          60.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "name": "Fastitocalon",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A giant turtle-island monster that sinks when sailors light fires on its back.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          62.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "name": "Gulon",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A gluttonous creature with a cat-like head and a dog's body that eats incessantly.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          60.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "name": "Kudiani",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A shapeshifting sorceress or bird-spirit from Georgian legend.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0,
+          42.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "name": "Laukosargas",
+        "category": "Spirits",
+        "alignment": "Benevolent",
+        "lore": "A Lithuanian spirit that guards the fields and ensures a good harvest.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2,
+          56.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "name": "Baubas",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A dark, spindly-fingered spirit used to scare children into behaving.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1,
+          55.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "name": "Vadājs",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A forest spirit that leads travelers in circles until they are hopelessly lost.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          57.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "name": "Liche",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A skeletal, undead being that has retained its intelligence and magic.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.26,
+          45.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "name": "Dahu",
+        "category": "Spirits",
+        "alignment": "Neutral",
+        "lore": "A mountain goat with legs shorter on one side to better walk on slopes.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "name": "Matagot",
+        "category": "Spirits",
+        "alignment": "Benevolent",
+        "lore": "A black cat spirit that brings wealth if treated with great respect.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44,
+          43.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "name": "Wichtel",
+        "category": "Spirits",
+        "alignment": "Benevolent",
+        "lore": "Small, helpful house-elves in Germanic folklore that perform chores at night.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "name": "Heinzelmännchen",
+        "category": "Spirits",
+        "alignment": "Benevolent",
+        "lore": "Household gnomes from Cologne who did the work of lazy bakers.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.95,
+          50.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "name": "Kobold",
+        "category": "Spirits",
+        "alignment": "Ambivalent",
+        "lore": "Ambivalent spirits that can help in mines or cause domestic chaos.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          51.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "name": "Nix",
+        "category": "Spirits",
+        "alignment": "Ambivalent",
+        "lore": "A shapeshifting water spirit that lures people to deep water with music.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8,
+          60.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "name": "Nökke",
+        "category": "Spirits",
+        "alignment": "Ambivalent",
+        "lore": "A Scandinavian water spirit known for playing the violin to lure victims.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "name": "Vodyanoy",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A frog-like water spirit that causes floods and pulls people underwater.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.15,
+          53.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "name": "Bolotnik",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A swamp spirit covered in algae who mimics the sounds of animals.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0,
+          53.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "name": "Polevik",
+        "category": "Spirits",
+        "alignment": "Ambivalent",
+        "lore": "A field spirit with skin the color of soil and hair like grass.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          54.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "name": "Ovinnik",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "A malevolent barn spirit that appears as a black cat with burning eyes.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          55.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "name": "Vila",
+        "category": "Spirits",
+        "alignment": "Benevolent",
+        "lore": "Beautiful mountain nymphs who can heal or shoot arrows at enemies.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          43.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "name": "Samovila",
+        "category": "Spirits",
+        "alignment": "Ambivalent",
+        "lore": "Forest spirits in the Balkans who guard the waters and dance in circles.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "name": "Zmey Gorynych",
+        "category": "Dragons",
+        "alignment": "Malicious",
+        "lore": "A three-headed Russian dragon that kidnaps women and burns villages.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61,
+          55.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "name": "Poludnica",
+        "category": "Spirits",
+        "alignment": "Malicious",
+        "lore": "The Lady Midday who strikes those working in the fields during high noon.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "name": "Besta",
+        "category": "Zanmarphic Animals",
+        "alignment": "Malicious",
+        "lore": "A Portuguese monstrous beast often used as a general term for demons.",
+        "source": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.867544?scroll=top&needAccess=true#d1e129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0,
+          40.0
+        ]
+      }
+    }
+  ]
+}
