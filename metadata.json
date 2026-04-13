@@ -1,5 +1,5 @@
 {
-  "name": "Leaflet Map Explorer",
-  "description": "An interactive Leaflet map application to test map parameters and export map views.",
+  "name": "European Mythical Creatures Map",
+  "description": "An interactive map of 126 European mythical creatures with geographic coordinates, lore, and alignment data. Includes GeoJSON and CSV exports for use in your own mapping projects.",
   "requestFramePermissions": []
 }
