@@ -1,5 +1,0 @@
-{
-  "name": "Leaflet Map Explorer",
-  "description": "An interactive Leaflet map application to test map parameters and export map views.",
-  "requestFramePermissions": []
-}

@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# European Mythical Creatures Dataset
 
-# Run and deploy your AI Studio app
+This repository contains a structured dataset of 213 mythical creatures from European folklore, legends, and literature. This resource facilitates research, creative work, and exploration of cultural mythology.
 
-This contains everything you need to run your app locally.
+## Dataset Features
 
-View your app in AI Studio: https://ai.studio/apps/40446f30-9c7c-4303-bc53-255fc3b7b2f3
+- **Format:** CSV (`data/creatures.csv`)
+- **Fields:** ID, Name, Category, Alignment, Latitude, Longitude, Lore
+- See [`data-dictionary.md`](data-dictionary.md) for detailed descriptions.
 
-## Run Locally
+## Source & License
 
-**Prerequisites:**  Node.js
+- **Original Source:** [US National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0001572386)
+- **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
+## Usage
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Use, share, remix, and build upon the data, provided you give attribution per [CC BY 4.0](LICENSE).
+- Cite as:
+  _“European Mythical Creatures Dataset, NLM Dataset Catalog, CC BY 4.0”_
+
+## Contributing
+
+Contributions of additional mythical creatures, corrections, and references are very welcome! See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+---
