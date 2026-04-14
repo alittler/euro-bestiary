@@ -37,11 +37,11 @@ async function loadCreatures() {
       header: true,
       skipEmptyLines: true,
       complete: (results) => {
-        creatures = results.data.filter(row => row.Name && row.Latitude && row.Longitude)
+        creatures = results.data.filter(row => row.Name && row.Lat && row.Lon)
         creatures = creatures.map(c => ({
           ...c,
-          latitude: parseFloat(c.Latitude),
-          longitude: parseFloat(c.Longitude),
+          latitude: parseFloat(c.Lat),
+          longitude: parseFloat(c.Lon),
         }))
 
         totalCount.textContent = creatures.length
@@ -94,7 +94,7 @@ function renderCreaturesList(filtered = creatures) {
       <div class="creature-item ${selectedMarker === creature.Name ? 'active' : ''}" 
            onclick="window.selectCreature(${JSON.stringify(creature).replace(/"/g, '&quot;')})">
         <div class="creature-item-name">${creature.Name}</div>
-        <div class="creature-item-meta">${creature.Category} • ${creature.Alignment}</div>
+        <div class="creature-item-meta">${creature.Category || 'Unknown'} • ${creature.Alignment || 'Neutral'}</div>
       </div>
     `)
     .join('')
@@ -113,8 +113,9 @@ searchInput.addEventListener('input', (e) => {
   const query = e.target.value.toLowerCase()
   const filtered = creatures.filter(c =>
     c.Name.toLowerCase().includes(query) ||
-    c.Category.toLowerCase().includes(query) ||
-    c.Lore?.toLowerCase().includes(query)
+    (c.Category && c.Category.toLowerCase().includes(query)) ||
+    (c.Alignment && c.Alignment.toLowerCase().includes(query)) ||
+    (c.Lore && c.Lore.toLowerCase().includes(query))
   )
   addMarkersToMap(filtered)
   renderCreaturesList(filtered)
