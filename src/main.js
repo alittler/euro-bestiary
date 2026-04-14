@@ -25,6 +25,69 @@ let markerLayer = L.layerGroup()
 // Add marker layer to map immediately
 markerLayer.addTo(map)
 
+// Color mappings
+const alignmentColors = {
+  'Benevolent': '#10b981',
+  'Malicious': '#ef4444',
+  'Ambivalent': '#f59e0b',
+  'Neutral': '#64748b',
+}
+
+const categoryColors = {
+  'Dragons': '#ef4444',
+  'Anthromorphic': '#8b5cf6',
+  'Zoomorphic': '#10b981',
+  'Hybrids of human and animal': '#f59e0b',
+  'Hybrid animals': '#3b82f6',
+}
+
+// Icon file mapping
+const categoryIcons = {
+  'Dragons': 'dragon.png',
+  'Zoomorphic': 'bear.png',
+  'Hybrids of human and animal': 'minotaur.png',
+  'Hybrid animals': 'chimera.png',
+  'Anthromorphic': 'cyclops.png',
+}
+
+// Generate HTML circle icon with category background and alignment border
+function getCreatureIconHtml(category, alignment, size = 24) {
+  const bgColor = categoryColors[category] || '#8b5cf6'
+  const borderColor = alignmentColors[alignment] || '#64748b'
+  const iconFile = categoryIcons[category] || 'cyclops.png'
+  const iconSize = Math.floor(size * 0.7)
+
+  const html = `
+    <div style="
+      width: ${size}px;
+      height: ${size}px;
+      background-color: ${bgColor};
+      border: 2px solid ${borderColor};
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      overflow: hidden;
+    ">
+      <img src="/assets/map-icons/${iconFile}" style="width: ${iconSize}px; height: ${iconSize}px; object-fit: contain;" alt="${category}">
+    </div>
+  `
+  return html
+}
+
+// Create custom icon for a creature
+function getCreatureIcon(category, alignment) {
+  const html = getCreatureIconHtml(category, alignment)
+  return L.divIcon({
+    html: html,
+    iconSize: [24, 24],
+    iconAnchor: [12, 24],
+    popupAnchor: [0, -24],
+    className: 'creature-marker-icon',
+  })
+}
+
 // DOM elements
 const searchInput = document.getElementById('search-input')
 const creaturesList = document.getElementById('creatures-list')
@@ -69,7 +132,9 @@ function addMarkersToMap(filtered = creatures) {
   markers = {}
 
   filtered.forEach(creature => {
-    const marker = L.marker([creature.latitude, creature.longitude])
+    const marker = L.marker([creature.latitude, creature.longitude], {
+      icon: getCreatureIcon(creature.Category, creature.Alignment)
+    })
       .bindPopup(`
         <div style="font-weight: bold; margin-bottom: 5px;">${creature.Name}</div>
         <div style="font-size: 12px; color: #666;">

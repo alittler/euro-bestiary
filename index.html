@@ -115,6 +115,24 @@
             color: #999;
         }
 
+        .sidebar-footer {
+            margin-top: auto;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            font-size: 11px;
+            color: #999;
+            line-height: 1.6;
+        }
+
+        .sidebar-footer a {
+            color: #2196F3;
+            text-decoration: none;
+        }
+
+        .sidebar-footer a:hover {
+            text-decoration: underline;
+        }
+
         @media (max-width: 768px) {
             .sidebar {
                 width: 100%;
@@ -149,6 +167,11 @@
 
             <div class="creatures-list" id="creatures-list">
                 <div class="loading">Loading creatures...</div>
+            </div>
+
+            <div class="sidebar-footer">
+                <strong>© 2026</strong> | Data: <a href="https://datasetcatalog.nlm.nih.gov/dataset?q=0001572386" target="_blank">NLM Dataset Catalog</a><br>
+                <a href="https://github.com/alittler/euro-bestiary" target="_blank">Repository</a> | <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
             </div>
         </div>
     </div>
